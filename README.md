@@ -1,7 +1,7 @@
 <html>
 <head>
   
-  <script type="text/javascript" src="https://www.public.tableau.com/javascripts/api/tableau-2.js"></script>
+  <script type="text/javascript" src="<script src="https://public.tableau.com/javascripts/api/tableau-2.8.0.min.js"></script>"></script>
 
 <script src="tableau.js"></script>
   </head>
