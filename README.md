@@ -37,3 +37,10 @@ vaccinedf %>%
 |discard     |  1|    -1|
 |envy        |  1|    -1|
 |escape      |  1|    -1|
+
+![Crime By Zip Code](zipcodes.png)
+
+
+
+
+
