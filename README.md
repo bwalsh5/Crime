@@ -44,7 +44,7 @@ vaccinedf %>%
 <script src="https://www.example.com/javascripts/api/tableau-2.js"></script>
 <div id="tableauViz"></div>
 
-``` js
+js
 function initializeViz() {
 var placeholderDiv = document.getElementById("tableauViz");
 var url = "https://public.tableau.com/profile/brian.walsh4959#!/vizhome/chicago-covid/Sheet1";
@@ -56,7 +56,7 @@ var options = {
  };
 viz = new tableau.Viz(placeholderDiv, url, options);
 }
-```
+
 
 
 
