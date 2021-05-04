@@ -1,7 +1,11 @@
 
-  <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.8.0.min.js"></script>">
+  <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.8.0.min.js">
+  
+</script>>
 
-<script src="tableau.js"></script>
+<script src="tableau.js">
+
+</script>
  
 # Crime Rates Over Time
 ## By Brian Walsh
