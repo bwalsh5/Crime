@@ -1,11 +1,8 @@
-<html>
-<head>
-  
+
   <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.8.0.min.js"></script>">
 
 <script src="tableau.js"></script>
-  </head>
-  </html>
+ 
 # Crime Rates Over Time
 ## By Brian Walsh
 ### May, 2021
@@ -48,12 +45,9 @@ vaccinedf %>%
 
 ![Crime By Zip Code](zipcodes.png)
 
-``` html
+
 <div id="tableauViz"></div>
 
-
-
-```
 
 
 
