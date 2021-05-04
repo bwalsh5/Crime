@@ -22,3 +22,18 @@ vaccinedf %>%
   inner_join(get_sentiments('afinn'))
 
 ```
+
+|word        |  n| value|
+|:-----------|--:|-----:|
+|crisis      |  2|    -3|
+|warning     |  2|    -3|
+|worse       |  2|    -3|
+|advantage   |  1|     2|
+|care        |  1|     2|
+|cry         |  1|    -1|
+|death       |  1|    -2|
+|devastating |  1|    -2|
+|difficult   |  1|    -1|
+|discard     |  1|    -1|
+|envy        |  1|    -1|
+|escape      |  1|    -1|
