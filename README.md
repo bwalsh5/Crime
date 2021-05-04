@@ -1,5 +1,10 @@
 
+<head>
+  
+  <script src="https://www.public.tableau.com/javascripts/api/tableau-2.js"></script>
 
+<script src="tableau.js"></script>
+  </head>
 # Crime Rates Over Time
 ## By Brian Walsh
 ### May, 2021
@@ -45,9 +50,7 @@ vaccinedf %>%
 ``` html
 <div id="tableauViz"></div>
 
-<script src="https://www.public.tableau.com/javascripts/api/tableau-2.js"></script>
 
-<script src="tableau.js"></script>
 
 ```
 
