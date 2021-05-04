@@ -1,6 +1,4 @@
-<iframe src="https://public.tableau.com/views/chicago-covid/Sheet1?:language=en&:display_count=y&:origin=viz_share_link" width="100%" height="600px">
- </iframe>
- 
+
 # Crime Rates Over Time
 ## By Brian Walsh
 ### May, 2021
