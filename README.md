@@ -42,14 +42,14 @@ vaccinedf %>%
 
 ![Crime By Zip Code](zipcodes.png)
 
-
+``` html
 <div id="tableauViz"></div>
 
 <script src="https://www.public.tableau.com/javascripts/api/tableau-2.js"></script>
 
 <script src="tableau.js"></script>
 
-
+```
 
 
 
