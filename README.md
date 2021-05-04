@@ -1,3 +1,6 @@
+<script src="tableau.js"></script>
+
+
 # Crime Rates Over Time
 ## By Brian Walsh
 ### May, 2021
