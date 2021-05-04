@@ -1,10 +1,11 @@
-
+<html>
 <head>
   
-  <script src="https://www.public.tableau.com/javascripts/api/tableau-2.js"></script>
+  <script type="text/javascript" src="https://www.public.tableau.com/javascripts/api/tableau-2.js"></script>
 
 <script src="tableau.js"></script>
   </head>
+  </html>
 # Crime Rates Over Time
 ## By Brian Walsh
 ### May, 2021
