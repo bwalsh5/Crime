@@ -47,24 +47,7 @@ vaccinedf %>%
 
 <script src="https://www.public.tableau.com/javascripts/api/tableau-2.js"></script>
 
-
-function initializeViz() {
-  // JS object that points at empty div in the html
-  var placeholderDiv = document.getElementById("tableauViz");
-  // URL of the viz to be embedded
-  var url = "http://public.tableau.com/views/WorldIndicators/GDPpercapita";
-  // An object that contains options specifying how to embed the viz
-  var options = {
-    width: '600px',
-    height: '600px',
-    hideTabs: true,
-    hideToolbar: true,
-  };
-  viz = new tableau.Viz(placeholderDiv, url, options);
-}
-
-
-
+<script src="tableau.js"></script>
 
 
 
